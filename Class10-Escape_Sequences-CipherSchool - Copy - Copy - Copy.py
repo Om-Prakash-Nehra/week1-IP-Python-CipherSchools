@@ -1,0 +1,7 @@
+print("hello \"iam\" om prakash")
+print('hello i\'am om prakash')
+print("hello\niam om prakash")
+print("hello\tiam om prakash")
+print("this is backslash\\")
+print("this is double backslash\\\\")
+print("helll\bo")
